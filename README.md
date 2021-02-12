@@ -27,6 +27,8 @@ Handling sound files in python, compute sound and audio features from them, and 
 
 **Librosa :**  is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
 # About the Dataset
+Link to the Dataset:
+https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
 ### genres original - 
 #### A collection of 10 genres with 100 audio files each, all having a length of 30 seconds (the famous GTZAN dataset, the MNIST of sounds)
 

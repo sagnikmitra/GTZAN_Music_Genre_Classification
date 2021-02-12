@@ -1,4 +1,4 @@
-# GTZAN_Music_Genre_Classification
+# GTZAN Music Genre Classification
 Handling sound files in python, compute sound and audio features from them, and run machine learning algorithms on them and Classify the Audio Files according to their Genres.
 # Objective of the Project:
 ### In this Project we will see how to handle sound files in python, compute sound and audio features from them, and run machine learning algorithms on them and Classify the Audio Files according to their Genres.
